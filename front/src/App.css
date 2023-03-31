@@ -1,0 +1,22 @@
+.App {
+   text-align: center;
+}
+.schemaPage {
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+   background-image: url(https://wallpaperaccess.com/full/2880737.png);
+}
+.schemaContainer{
+   min-height: 80vh;
+   margin: 2rem;
+}
+
+.schemaLogin {
+   min-height: 80vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 2rem;
+}
+
